@@ -60,7 +60,7 @@ def ucs(start, goal, g):
 ucs('Arad', 'Bucharest', path_costs('./paths.txt'))
 
 
-
+"""
 Heuristics.txt
 
 Arad, 366
@@ -108,3 +108,4 @@ Urziceni, Vaslui, 142
 Hirsova, Eforie, 86
 Vaslui, Lasi, 92
 Lasi, Neamt, 87
+"""
