@@ -38,7 +38,7 @@ else:
     print(f"Target {target} is NOT reachable from source {source} within max depth {maxDepth}")
     
     
-    
+  """  
  Heuristics.txt
 
 Arad, 366
@@ -87,4 +87,4 @@ Hirsova, Eforie, 86
 Vaslui, Lasi, 92
 Lasi, Neamt, 87
  
-
+"""
